@@ -1,0 +1,582 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen] AJUDEM A DIVULGAR O CANAL [/COLOR][COLOR red]JEDIELSON CARVALHO[/COLOR]
+http://youtube.com./c/jedielsoncarvalho
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen] DUVIDAS? [/COLOR][COLOR red] WHAT (048) 9654-2979 [/COLOR]
+http://youtube.com/c/jedielsoncarvalho
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen] FAÇA DOAÇÃO PARA MANTER A LISTA [/COLOR][COLOR red] N CONTA:01-020540-5 AG:1512 [/COLOR]
+https://plus.google.com/110925368255487822594/posts/VjhBkEivGcH
+
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR white] *LISTA CONSTANTEMENTE ATUALIZADA[/COLOR]
+http://138.68.83.9/loadbalance/bobsp/chunks.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CANAL JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                             [ABERTOS][/B][/COLOR]
+http://
+ 
+
+
+#EXTINF:-1 tvg-logo="http://imgur.com/h75BeHs",[COLOR orange][B]GLOBO [/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://144.217.181.54:25461/live/bano30/3030/1811.ts?token=GBVbUUNfE18SAFNUVVIAAQEABgBcW1UJVgVYVANXCwlWBAYHAwEBVwURSkZHQBEHWVU7XQEaDQBeVVBKFhRAXRFoWlQSDRNWCANQUhYYQRZRVQEWXwkDCF5XVVYGUgYUQUdaVBINE1QGAF9GGBYGGkxdFloEVGhVAxIIBVFDCVYWW18cElhfOlRWCwVaUEFYGghGGEdRREFEXkMoURUTawZFRVlTWEJFVFZGJ1tZFgxRWwVXBFcXYkglT0QYQ1FRF0VSRFUVC0cDAFFTFhhBAVdNCkAXQRULRCYzRBhDVkAXUl1DWVhfRwoREhcWGEELS2cWURZMRVQHCQQUFlsRCEEbEV1RT24GX10IAVdACg1WS0YORwkVHUQJDghdFVxKPEdaVBINE1QCAl5GSQ==
+
+#EXTINF:-1 tvg-logo="http://imgur.com/h75BeHs",[COLOR orange][B]GLOBO [/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://95.141.32.213:8081/look/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B]RECORD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B]RECORD NEWS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B]REDETV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B]SBT[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B]TV ESCOLA[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B]TVE[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B] MTV HD [/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://207.154.237.137/loadbalance/83792545658779361413/chunks.m3u8?pxAuth=dhBs2LTVF1ZsliWebQiYYWj5P5JdArjQ
+
+ 
+ #EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]BAND[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CULTURA[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/tvcultura/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]FUTURA[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  orange][B]GAZETA HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] GLOBONEWS[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] BAND NEWS[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/bandnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] BAND SP[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] BAND PARÁ[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://evce.mm.uol.com.br:1935/band/band.smil/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] BAND VIA MORENA[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] BAND[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] REDETV HD[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] REDETV RN[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] REDE TV PR[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] REDETV ARAPUAN-PB[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] RECORD[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] RECORD NEWS TO[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] RECORD[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] RECORD SP[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] RECORD SP[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B][/B] RECORD HD[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto" , RECORD (PB) 
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redemeionorte.png" group-title="Abertos", REDE MEIO NORTE  
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/39pLYC1PRJ/0pjAT8CBbwj7fYMU.png" group-title="CANAL ABERTO", TV CORREIO PB 
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title="CANAL ABERTO", REDE FAMÍLIA HD 
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title="Canais abertos", REDE FAMILIA 
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/2R3A4U7Abd/P3uLvqZ8Xpuaf2B7.png" group-title="CANAL ABERTO", LIVRE TV 
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/5vZQuLLt8w/sNvwtlfliDFCyHfX.png",[COLOR orange][B][/B] MULTI TV[/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]CANAL JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                            [DOCUMENTÁRIOS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]H2 HISTORY HD[/B][/COLOR]
+http://207.154.236.113/loadbalance/h2-hd/chunks.m3u8?pxAuth=pPwlkNjKPpfXZgbN3qsSLU3CXFVGbhkK
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]INVESTIGATION DISCOVERY HD[/B][/COLOR]
+http://80.82.78.104/loadbalance/investigation-discovery/chunks.m3u8?pxAuth=QkZ76rQ9SJTXjxjaA5kVzjuEbizb5hpI
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]NATIONAL GEOGRAPHIC HD[/B][/COLOR]
+http://207.154.236.113/loadbalance/64795594976712369413/chunks.m3u8?pxAuth=mrHkS8RcWWmc880BAAuFDy9ISMsbzfNv
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ANIMAL PLANET LIVE HD[/B][/COLOR]
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]NOSSA TV[/B][/COLOR]
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]TLC[/B][/COLOR]
+http://178.193.237.115:9000/play/a080
+ 
+
+ #EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  lawngreen][B]JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                             [FILMES/SERIES][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]MEGA PIX HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://104.236.158.46/loadbalance/megapixhd/chunks.m3u8?pxAuth=550WuVTIYNLvJP0ALZLKXGSjPbKfffOm
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]PARAMOUNT HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://104.236.158.46/loadbalance/paramount/chunks.m3u8?pxAuth=RJGBxenPVz85Sud55ZeZoknz7k7Tfo13
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]HBO Family HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://104.236.161.107/loadbalance/hbofamily/chunks.m3u8?pxAuth=mswPY5GdDM8DVZlvnLF7Bq4afUxPP4Dp
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]HBO PLUS HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://104.236.156.198/loadbalance/hboplus/chunks.m3u8?pxAuth=fDczwpfQApMPByRKOTW056c0rcJLQp42
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]HBO 2 HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://146.185.145.119/loadbalance/hbo-2/chunks.m3u8?pxAuth=CshvWcrsXa2BCzadyLz9xd7PXzlOXDhy
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]FOX HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://188.166.63.98/loadbalance/fox-hd/chunks.m3u8?pxAuth=3uR74bRFw0XeSZEjSggC4GUhPnvdvEEN
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]MAX PRIME[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://104.236.160.175/loadbalance/maxprime/chunks.m3u8?pxAuth=9ihYGjjx558toRfoCCeyBlOa2OMfufwr
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]TNT[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://80.82.78.104/loadbalance/tnthd/chunks.m3u8?pxAuth=PKgOfxJug4WPGCX45rOqnYmk64u4MqMA
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CINE MAX HD [/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://146.185.167.38/loadbalance/cinemax-hd/chunks.m3u8?pxAuth=XqvqfvkSN44i7jstrXxvvs3jajRarOtl
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]TV CINE 3[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a00r
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]MAX UP HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://146.185.145.119/loadbalance/maxup/chunks.m3u8?pxAuth=hTNc22BGwyDCK6KdYXRFhH49BTEHlGrt
+
+ #EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                             [INFANTIS][/B][/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]BIGGS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://213.188.51.185:9981/play/a00x
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CARTOON NETWORK[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+ 
+ #EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]GLOOB[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://187.49.86.238:10000/bysid/94
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]DISCOVERY KIDS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ANIME TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ANIME TV 2[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CARTOON NETWORK[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]DISNEY CHANNEL[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-disney/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]DISNEY JR[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a01n
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]NICK[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]CANAL JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                             [ENTRETENIMENTO/VARIEDADES][/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CANAL RICOS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CANAL SAUDE[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]POLISHOP[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]SHOPTIME[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]VEM E VE TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ULTRAFARMA[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://srv9.zoeweb.tv:1935/zw931/smil:zw931.smil/playlist.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]CANAL JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                             [ESPORTES][/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ALL SPORTS TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]BAND SPORTS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://evtg.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]COMBATE[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://95.211.149.215:8081/look/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]COMBATE[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/combate/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]EI MAXX[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rafildshdtv.com/live/5801255b39c38e1109ddfabd.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]EI MAXX 2[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rafildshdtv.com/live/5801261189b415d108f9603c.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ESPN[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://5.79.68.138:8081/look/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ESPN+[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://207.154.237.137/loadbalance/espnmais/chunks.m3u8?pxAuth=HBXiEltML3CAk1haxfWmg2RykPvFM8Tw
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ESPN BRASIL[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://80.82.78.104/loadbalance/slv10/chunks.m3u8?pxAuth=AnfVVjJ7NQt4JorU5TX8toMz5OYW3ufL
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ESPORTE INTERATIVO HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rafildshdtv.com/live/58121908685da2dd08de7ec5.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]FOX SPORTS SD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://95.211.149.215:8081/look/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]FOX SPORTS 2[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]FISH TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ESPORTES PARA TODOS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fqjnl02p9/TV_Guarulhos.png" group-title="Esportes",TV GUARULHOS 
+http://flash1.crossdigital.com.br:1935/476_1/476_1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]HORSE BRASIL[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://490636978.r.worldcdn.net/490636978/_definst_//horsebrasil1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]MOTOR SPORT[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://motorsport.hopto.org:8080
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eqtcpanjh/TV_Geral.png" group-title="Esportes",TV GERAL 
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/79k5a2y0d/TV_Guaruj.png" group-title="Esportes",TV GUARUJA 
+http://wse.transmissaodigital.com:1935/3880/3880/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 1[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_4_1464000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 2[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 3[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_6_3514000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 4[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 5[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel02/NBC_OCS2_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 6[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel03/NBC_OCS3_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 7[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel04/NBC_OCS4_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]OLYMPIC 8[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ocs-live.hls.adaptive.level3.net/ocs/channel05/NBC_OCS5_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLORorange][B]PREMIERE[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://95.211.149.215:8081/look/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]REAL MADRID TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]SPORTV 2[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a08o
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]SPORTV 3[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a08b
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]SPORTV 5[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a082
+
+ 
+ 
+#EXTINF:-1 tvg-logo="http://alphachannel.tv.br/wp-content/uploads/2015/03/FISH.png",FISH PLUS 
+http://streamingbr.com.br:1935/st87-live/st87-live_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",HORSE BRASIL HD 
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/CPN5mJ" group-title="ESPORTES INTERNACIONAIS", SPORT 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+ #EXTINF:-1 tvg-logo="http://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" group-title="Esportes",Real Madrid TV SD 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/lEjmGT" group-title="ESPORTES PT",REAL MADRID TV 
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",ABU DABI SPORT 1 HD 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",ABU DABI SPORT 2 HD 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/DkRrX6" pltv-subgroup="INTERNACIONAL" ,BEN SPORTS HD1
+http://nl1.live24.ir/hls/@live24-01.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/J4yqjO" pltv-subgroup="INTERNACIONAL" ,BEN SPORTS HD2
+http://nl1.live24.ir/hls/@live24-02.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/2ETSVt" pltv-subgroup="INTERNACIONAL" ,BEN SPORTS HD3
+http://nl1.live24.ir/hls/@live24-03.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/3OgbUl" pltv-subgroup="INTERNACIONAL" ,BEN SPORTS HD4
+http://nl1.live24.ir/hls/@live24-04.m3u8
+
+#EXTINF:-1, SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, DXTV SPORTS 
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/RuXf9u" group-title="Canais Internacionais", TELPIN 2 HD ARGENTINA 
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/musmOsl.png" pltv-subgroup="INTERNACIONAL" ,NBA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/cqQlQ4O.gif" pltv-subgroup="INTERNACIONAL" ,MOTOR SPORTS 
+http://motorsport.hopto.org:8080/ 
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/1DwScuq.png" pltv-subgroup="INTERNACIONAL" ,VERSUS HD 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://lut.im/Z2fMvcPllL/Uln7zzzHV8ip53wK.png" pltv-subgroup="INTERNACIONAL" ", VERSUS (ENG) 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/ugOfaha.gif" pltv-subgroup="INTERNACIONAL" ,EUROSPORT
+http://nl1.live24.ir/hls/@live24-04.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://tudotv.tv/fotos/2d8a22bfa2b8e07eb5ad0ed85815fe60.jpg" pltv-subgroup="INTERNACIONAL" ,EUROSPORTE1 
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://resiliation.net/wp-content/uploads/logo-eurosport.jpeg" pltv-subgroup="INTERNACIONAL" ,EUROSPORTE 
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/trB0Zj" pltv-subgroup="INTERNACIONAL" ,SPORTES NEWS
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/xGSY7v" pltv-subgroup="INTERNACIONAL" ,SKY SPORTS 1
+http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299//index_3400_av-p.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/Hs7knt" pltv-subgroup="INTERNACIONAL" ,SKY SPORTS 3
+http://185.102.218.45:8080/ch18/tracks-v1a1/index.m3u8?http://185.102.218.45:8080/ch73/tracks-v1a1/index.m3u8?http://149.62.176.220:8000/udp/239.100.2.28:3001
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/DeHK3d" pltv-subgroup="INTERNACIONAL" ,SKY SPORTS 4
+http://185.102.218.45:8080/ch13/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/y0sX7N" pltv-subgroup="INTERNACIONAL" ,SKY SPORTS 5
+http://185.102.218.45:8080/ch58/tracks-v1a1/index.m3u8?http://mcdn-play-358.5centscdn.net/skysports5hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/mCkfei" pltv-subgroup="INTERNACIONAL" ,FOX SPORTS 
+http://185.102.218.45:8080/ch7/tracks-v1a1/index.m3u8
+
+ 
+ #EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="https://goo.gl/akD13p" pltv-subgroup="INTERNACIONAL" ,ESPN NEWS EUA
+http://nl1.live24.ir/hls/@live24-01.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/bsYIhXi.jpg" pltv-subgroup="INTERNACIONAL" ,ESPN 2
+http://nl1.live24.ir/hls/@live24-01.m3u8
+#EXTINF:-1 group-title="TV/ESPORTES"tvg-logo="http://i.imgur.com/c2JTjiL.jpg" pltv-subgroup="INTERNACIONAL" ,ESPN DEPORTES
+http://nl1.live24.ir/hls/@live24-02.m3u8
+
+ 
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  lawngreen][B]JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR  lawngreen][B]                             [MUSICAIS][/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]1HD MUSIC[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]DJ HITS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://www.djing.com/tv/04.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]DREAM TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]EU MUSIC BRASIL[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]FILMON ROCK TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://198.179.31.197/live/311.high.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]HEART TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]M6 MUSIC[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ONE 0[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rtmp.one.by:1200
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ONE 1 HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rtmp.one.by:1300
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ONE 4 HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rtmp.one.by:2300
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]RADIO 105 TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]RADIO MONTE CARLO TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://wow01.105.net/live/rmc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]RADIO ROBERTO CARLOS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://192.99.150.31:9137/stream
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]RETRO MUSIC HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ROCK 'N ROLL[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://198.179.31.197/live/2942.high.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]VIRGIN TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]WEB TV CLIPES[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B].[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                             [NOTICIAS][/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]ABC NEWS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]BBC WORLD NEWS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a01h
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]BLOOMBERG TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+ttp://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CNN INTERNACIONAL[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a01f
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]EURONEWS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a01i
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]RECORD NEWS[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]SKY NEWS HD[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://178.193.237.115:9000/play/a081
+
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]JEDIELSON CARVALHO[/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR lawngreen][B]                             [RELIGIOSOS][/B][/COLOR]
+http://
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]CANCAO NOVA[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]PORTAL GOSPEL TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]REDE VIDA[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]SKY GOSPEL[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]SOBRENATURAL TV[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]TV APARECIDA[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]TV JESUS CRISTO[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://stmv1.caxiashost.com.br/tvjesus/tvjesus/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://bit.ly/MINHALOGO",[COLOR orange][B]TV NOVO TEMPO[/B][/COLOR][COLOR gray][B]  ON[/B][/COLOR]
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b512000_slpor.m3u8
